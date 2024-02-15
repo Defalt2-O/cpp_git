@@ -6,5 +6,6 @@ int main(){
     cout<<a+b<<"\n";
     cout<<b-a<<"\n";
     cout<<b/a<<"\n";
+    cout<<a*b<<"\n";
     return 0;
 }
